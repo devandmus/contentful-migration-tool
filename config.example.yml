@@ -1,0 +1,9 @@
+MODEL_TO_MIGRATE: # Contentful Model Name
+
+DOWNLOAD_FOLDER: static-files # download folder name
+
+FROM_ENVIRONMENT: # your base environment
+
+# YAML ARRAY
+TO_ENVIRONMENT:
+  - # an array with environments to put data from "FROM_ENVIRONMENT"

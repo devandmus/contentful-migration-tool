@@ -1,0 +1,10 @@
+# folders
+.idea
+/node_modules
+
+# configs
+.env
+config.yml
+
+# others
+package-lock.json
